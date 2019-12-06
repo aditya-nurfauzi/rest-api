@@ -1,0 +1,31 @@
+[
+    {
+        "nama": "Aditya",
+        "umur": 20,
+        "nrp": "173040045",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Suparman",
+            "permbimbing2": "Eman"
+        }
+    },
+    
+    {
+        "nama": "Aditya",
+        "umur": 20,
+        "nrp": "173040045",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Suparman",
+            "permbimbing2": "Eman"
+        }
+    }
+]
